@@ -6,7 +6,7 @@ Test in Swift with API Clash Royale .
 * Constraints
 * WebService
 * TableView
-* Alphabetic Order
+* Alphabetic Order.
 
 
 
